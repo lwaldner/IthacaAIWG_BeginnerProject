@@ -1,4 +1,4 @@
-# Welcome to the IthacaAIWG_BeginnerProject Github!
+# Welcome to the Ithaca AIWG Beginner Project Github!
 
 ### Introduction
 The goal of this project is to gain expirence with popular data science libraries and data science concepts. We will be building a working information retervial system that will produce a ranked list of documents given a search query. By doing so we will cover topics in data mining, natural language processing and machine learning. 
