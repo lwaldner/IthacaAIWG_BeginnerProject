@@ -29,6 +29,6 @@ To get started on the project head over to the Wiki tab above.
 
 ### Community & Support
 
-We highly encourage anyone who is following along with this to join our slack group at www.slack.com and join the beginner-project channel for help, resources and discussion on the project. 
+We highly encourage anyone who is following along with this to join our slack group at goo.gl/tiqrHU and join the beginner-project channel for help, resources and discussion on the project. 
 
 If you run into any problems please reach out to us for help on beginner-project channel on slack. 
